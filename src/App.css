@@ -1,0 +1,11 @@
+.App {
+  display: flex;
+  width: 100%;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.App > * {
+  min-height: 30px;
+  width: 100%;
+}
